@@ -1,0 +1,23 @@
+{
+  "name": "xuno-ui-breadcrumbs",
+  "version": "1.0.0",
+  "description": "Modified \"ui-breadcrumbs\" from \"angularUtils\"",
+  "main": "uiBreadcrumbs.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stalinko/xunoUiBreadcrumbs.git"
+  },
+  "keywords": [
+    "angularjs",
+    "breadcrumbs",
+    "ui-breadcrumbs",
+    "ui-router",
+    "menu"
+  ],
+  "author": "Michael Bromley, Ilya Savinkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Stalinko/xunoUiBreadcrumbs/issues"
+  },
+  "homepage": "https://github.com/Stalinko/xunoUiBreadcrumbs#readme"
+}
