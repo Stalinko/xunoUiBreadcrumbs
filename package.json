@@ -1,6 +1,6 @@
 {
   "name": "xuno-ui-breadcrumbs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Modified \"ui-breadcrumbs\" from \"angularUtils\"",
   "main": "uiBreadcrumbs.js",
   "repository": {
